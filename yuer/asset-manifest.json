@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/yuer/static/js/main.5c23bed4.chunk.js",
-    "main.js.map": "/yuer/static/js/main.5c23bed4.chunk.js.map",
+    "main.js": "/yuer/static/js/main.fcd2b299.chunk.js",
+    "main.js.map": "/yuer/static/js/main.fcd2b299.chunk.js.map",
     "runtime-main.js": "/yuer/static/js/runtime-main.5eb7ea34.js",
     "runtime-main.js.map": "/yuer/static/js/runtime-main.5eb7ea34.js.map",
-    "static/js/2.41a61f7c.chunk.js": "/yuer/static/js/2.41a61f7c.chunk.js",
-    "static/js/2.41a61f7c.chunk.js.map": "/yuer/static/js/2.41a61f7c.chunk.js.map",
+    "static/js/2.f1842e6d.chunk.js": "/yuer/static/js/2.f1842e6d.chunk.js",
+    "static/js/2.f1842e6d.chunk.js.map": "/yuer/static/js/2.f1842e6d.chunk.js.map",
     "static/js/3.2b71b301.chunk.js": "/yuer/static/js/3.2b71b301.chunk.js",
     "static/js/3.2b71b301.chunk.js.map": "/yuer/static/js/3.2b71b301.chunk.js.map",
     "static/js/4.7d6c47be.chunk.js": "/yuer/static/js/4.7d6c47be.chunk.js",
@@ -301,11 +301,11 @@
     "static/js/149.a1faf0ca.chunk.js": "/yuer/static/js/149.a1faf0ca.chunk.js",
     "static/js/149.a1faf0ca.chunk.js.map": "/yuer/static/js/149.a1faf0ca.chunk.js.map",
     "index.html": "/yuer/index.html",
-    "static/js/2.41a61f7c.chunk.js.LICENSE.txt": "/yuer/static/js/2.41a61f7c.chunk.js.LICENSE.txt"
+    "static/js/2.f1842e6d.chunk.js.LICENSE.txt": "/yuer/static/js/2.f1842e6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5eb7ea34.js",
-    "static/js/2.41a61f7c.chunk.js",
-    "static/js/main.5c23bed4.chunk.js"
+    "static/js/2.f1842e6d.chunk.js",
+    "static/js/main.fcd2b299.chunk.js"
   ]
 }
